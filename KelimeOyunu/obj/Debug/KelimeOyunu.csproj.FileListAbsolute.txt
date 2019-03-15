@@ -1,0 +1,13 @@
+C:\Users\Section2\source\repos\GitHubProje_KelimeOyunu\KelimeOyunu\bin\Debug\KelimeOyunu.exe.config
+C:\Users\Section2\source\repos\GitHubProje_KelimeOyunu\KelimeOyunu\bin\Debug\KelimeOyunu.exe
+C:\Users\Section2\source\repos\GitHubProje_KelimeOyunu\KelimeOyunu\bin\Debug\KelimeOyunu.pdb
+C:\Users\Section2\source\repos\GitHubProje_KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\GitHubProje_KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\GitHubProje_KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.exe
+C:\Users\Section2\source\repos\GitHubProje_KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.pdb
+C:\Users\AHMET\Desktop\GitHubProje_KelimeOyunu\KelimeOyunu\bin\Debug\KelimeOyunu.exe.config
+C:\Users\AHMET\Desktop\GitHubProje_KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.exe
+C:\Users\AHMET\Desktop\GitHubProje_KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.pdb
+C:\Users\AHMET\Desktop\GitHubProje_KelimeOyunu\KelimeOyunu\bin\Debug\KelimeOyunu.exe
+C:\Users\AHMET\Desktop\GitHubProje_KelimeOyunu\KelimeOyunu\bin\Debug\KelimeOyunu.pdb
+C:\Users\AHMET\Desktop\GitHubProje_KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.csprojResolveAssemblyReference.cache
